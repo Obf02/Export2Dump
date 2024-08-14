@@ -21,4 +21,5 @@ Obf02 - Making the script
 # Updates and Versions :
 
 -- Version 1.0 -- Initial Release.
+
 -- Version 2.0 -- Added some tweaks related to linux.
