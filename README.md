@@ -4,8 +4,11 @@
 # Usage :
 
 1 - Run it with python
+
 2 - Select the path to the dll
+
 3 - Select the export function that you want to dump
+
 4 - Check out the dump in your /Desktop folder
 
 # Info :
